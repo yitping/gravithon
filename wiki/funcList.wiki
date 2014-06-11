@@ -1,0 +1,6 @@
+= List of Functions/Routines =
+
+What functions/routines do we need?
+
+  * a "Hello, world!" function
+  * a function to unmerge a merged FITS file
