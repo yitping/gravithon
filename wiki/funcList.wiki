@@ -2,5 +2,12 @@
 
 What functions/routines do we need?
 
-  * a "Hello, world!" function
+ * syntax
+  * a "Hello, world!" function -- DONE
+ * file I/O
   * a function to unmerge a merged FITS file
+  * read (part of) a GRAVITY FITS file into useful Python structures, e.g. numpy arrays and dictionaries
+ * observation planning
+  * (u,v) plot routine, star altitude + airmass plot -- ideally with a direct interface to SIMBAD to get the object coordinates
+  * simple interferometry modeling tools (point sources, binaries, (elliptical) Gaussians, uniform disks, ...)
+  * Fourier transforms of arbitrary images
