@@ -14,3 +14,4 @@ What functions/routines do we need?
  * conversion
   * SC/FT images to phases
   * pupil alignment to baseline error?
+  * telescope arrangement to baseline array
