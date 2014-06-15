@@ -12,6 +12,6 @@ What functions/routines do we need?
   * simple interferometry modeling tools (point sources, binaries, (elliptical) Gaussians, uniform disks, ...)
   * Fourier transforms of arbitrary images
  * conversion
-  * SC/FT images to phases
+  * SC/FT images or MET voltages to phases
   * pupil alignment to baseline error?
   * telescope arrangement to baseline array
