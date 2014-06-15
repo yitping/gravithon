@@ -11,3 +11,6 @@ What functions/routines do we need?
   * (u,v) plot routine, star altitude + airmass plot -- ideally with a direct interface to SIMBAD to get the object coordinates
   * simple interferometry modeling tools (point sources, binaries, (elliptical) Gaussians, uniform disks, ...)
   * Fourier transforms of arbitrary images
+ * conversion
+  * SC/FT images to phases
+  * pupil alignment to baseline error?
