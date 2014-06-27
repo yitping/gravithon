@@ -7,6 +7,7 @@ What functions/routines do we need?
  * file I/O
   * a function to unmerge a merged FITS file
   * read (part of) a GRAVITY FITS file into useful Python structures, e.g. numpy arrays and dictionaries
+  * a light-weight command line utility to display tables and columns of GRAVITY FITS files
  * observation planning
   * (u,v) plot routine, star altitude + airmass plot -- ideally with a direct interface to SIMBAD to get the object coordinates
   * simple interferometry modeling tools (point sources, binaries, (elliptical) Gaussians, uniform disks, ...)
